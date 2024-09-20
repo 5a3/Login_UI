@@ -1,6 +1,6 @@
 # scholar_chat
 
-A new Flutter project.
+chat_app with firebase cloude_storge
 
 ## Getting Started
 
