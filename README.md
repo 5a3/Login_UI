@@ -1,6 +1,6 @@
-# scholar_chat
+# login_firebase_ui
 
-chat_app with firebase cloude_storge
+login firebase with beauty desgin
 
 ## Getting Started
 
